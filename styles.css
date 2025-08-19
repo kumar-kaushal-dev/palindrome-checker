@@ -39,7 +39,7 @@ body {
   transition: var(--transition);
 }
 
-.container {
+.container{
   background: var(--secondary-color);
   padding: 3rem;
   border-radius: 24px;
